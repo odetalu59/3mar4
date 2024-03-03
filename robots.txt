@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://eptransition.com/superjp.html/sitemap.xml
+Sitemap: https://eptransition.com/gojekpot.html/sitemap.xml
+Sitemap: https://eptransition.com/winstrike69.html/sitemap.xml
+Sitemap: https://eptransition.com/jagoan86.html/sitemap.xml
+Sitemap: https://eptransition.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://eptransition.com/boosterjp.html/sitemap.xml
+Sitemap: https://eptransition.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://eptransition.com/viral88.html/sitemap.xml
+Sitemap: https://eptransition.com/clan4d.html/sitemap.xml
+Sitemap: https://eptransition.com/dinamit4d.html/sitemap.xml
+Sitemap: https://eptransition.com/viral4d.html/sitemap.xml
+Sitemap: https://eptransition.com/gilajp.html/sitemap.xml
